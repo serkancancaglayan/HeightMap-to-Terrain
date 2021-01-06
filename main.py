@@ -1,8 +1,4 @@
-"""Semih Demir
-Serkan Can Caglayan
-Alihan Demirel
-Alperen Inci
-"""
+
 from variables_imports import *
 t = Terrain()
 
